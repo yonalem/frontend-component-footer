@@ -36,7 +36,7 @@ const StudioFooter = ({
 
   return (
     <>
-      <StudioFooterHelpSectionSlot containerProps={containerProps} />
+      {/*<StudioFooterHelpSectionSlot containerProps={containerProps} />*/}
       <Container
         size="xl"
         className={classNames('px-4', containerClassName)}
@@ -72,7 +72,7 @@ const StudioFooter = ({
               any of these trademarks and company names.
           */}
           <FormattedMessage {...messages.trademarkMessage} />
-          <Hyperlink className="ml-1" destination="https://www.edx.org">edX Inc</Hyperlink>.
+          <Hyperlink className="ml-1" destination="https://www.afrolms.com">Ethio Advise Inc</Hyperlink>.
           <ActionRow.Spacer />
           <StudioFooterLogoSlot />
         </ActionRow>

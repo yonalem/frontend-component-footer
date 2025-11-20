@@ -16,14 +16,14 @@ ensureConfig([
 const BUTTONS = [
   {
     as: 'a',
-    href: 'https://docs.openedx.org/en/latest/educators/quickstarts/build_a_course.html',
+    href: 'https://docs.daracorp.io/en/latest/educators/quickstarts/build_a_course.html',
     size: 'sm',
     message: messages.educatorsDocsButtonLabel,
     dataTestid: null,
   },
   {
     as: 'a',
-    href: 'https://training.openedx.io/courses/course-v1:OpenedX+DemoX+Demo_Course/about',
+    href: 'https://training.daracorp.io/courses/course-v1:DaraCorp+DemoX+Demo_Course/about',
     size: 'sm',
     message: messages.openEdxDemoCourseButtonLabel,
     dataTestid: 'openEdXDemoCourseButton',

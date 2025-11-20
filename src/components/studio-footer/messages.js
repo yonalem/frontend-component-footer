@@ -13,13 +13,13 @@ const messages = defineMessages({
   },
   educatorsDocsButtonLabel: {
     id: 'authoring.footer.help.educatorsDocs.button.label',
-    defaultMessage: 'Open edX Educators Docs',
+    defaultMessage: 'Dara Corp Educators Docs',
     description: 'Label for button that links to the build a course quickstart site',
   },
   openEdxDemoCourseButtonLabel: {
     id: 'authoring.footer.help.openEdxDemoCourse.button.label',
-    defaultMessage: 'Open edX Demo Course',
-    description: 'Label for button that links to the open edX demo course portal',
+    defaultMessage: 'Dara Corp Demo Course',
+    description: 'Label for button that links to the Dara Corp demo course portal',
   },
   contactUsButtonLabel: {
     id: 'authoring.footer.help.contactUs.button.label',
@@ -43,8 +43,8 @@ const messages = defineMessages({
   },
   trademarkMessage: {
     id: 'authoring.footer.trademark.message',
-    defaultMessage: 'edX and Open edX, and the edX and Open edX logos are registered trademarks of',
-    description: 'Message about the use of logos and names edX and Open edX',
+    defaultMessage: 'DaraCorp and AroLMS, and the DaraCorp and AroLMS logos are registered trademarks of',
+    description: 'Message about the use of logos and names edX and Dara Corp',
   },
 });
 
