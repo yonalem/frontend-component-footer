@@ -138,12 +138,12 @@ const messages = defineMessages({
   },
   'footer.logo.altText': {
     id: 'footer.logo.altText',
-    defaultMessage: 'Powered by Open edX',
+    defaultMessage: 'Powered by Afro LMS',
     description: 'alt text for the footer logo.',
   },
   'footer.logo.ariaLabel': {
     id: 'footer.logo.ariaLabel',
-    defaultMessage: 'edX Home',
+    defaultMessage: 'daraCorp Home',
     description: 'aria-label for the footer logo.',
   },
   'footer.ariaLabel': {
